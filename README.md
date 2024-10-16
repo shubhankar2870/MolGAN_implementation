@@ -1,3 +1,7 @@
+# Pytorch Implementation of MolGAN
+
+Implemented the research paper: `MolGAN: An implicit generative model for small molecular graphs (https://arxiv.org/abs/1805.11973)`.
+
 ## Steps to the run the GAN model
 ```
 1. pip install -r requirements.txt
