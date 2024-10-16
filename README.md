@@ -23,4 +23,10 @@
 6. python main_gan.py
 ```
 
-## Modify lambda_wgan inside `args.py` between 0-10 to tune the model
+### Modify lambda_wgan inside `args.py` between 0-10 to tune the model
+
+### Packages used:
+* rdkit
+* scikit-learn
+* pytorch
+* pysmiles
