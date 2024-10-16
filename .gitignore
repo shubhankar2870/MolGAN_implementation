@@ -1,2 +1,6 @@
-data/
+data/gdb9.sdf
+data/gdb9.sdf.csv
+data/NP_score.pkl.gz
+data/qm9_5k.sparsedataset
+data/SA_score.pkl.gz
 venv
