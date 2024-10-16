@@ -1,4 +1,4 @@
-# Pytorch Implementation of MolGAN
+<h1 align='center'>Pytorch Implementation of MolGAN</h1>
 
 <p align="center">
 <strong align="center">
