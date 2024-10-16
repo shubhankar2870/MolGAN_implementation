@@ -1,6 +1,12 @@
 # Pytorch Implementation of MolGAN
 
-Implemented the research paper: `MolGAN: An implicit generative model for small molecular graphs (https://arxiv.org/abs/1805.11973)`.
+<p align="center">
+<strong align="center">
+This repository contains a PyTorch implementation of MolGAN: An implicit generative model for small molecular graphs 
+(https://arxiv.org/abs/1805.11973). 
+</strong>
+</p>
+
 
 ## Steps to the run the GAN model
 ```
