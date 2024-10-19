@@ -242,7 +242,7 @@ class SparseMolecularDataset():
             train, validation, test))
 
     def _next_batch(self, counter, count, idx, batch_size):
-        if batch_size is not None:
+        if batch_si is not None:
             if counter + batch_size >= count:
                 counter = 0
                 np.random.shuffle(idx)
